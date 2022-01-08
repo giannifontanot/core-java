@@ -7,7 +7,7 @@ public class Log4JExample {
 
 
     public static void main(String[]args){
-        
+
 
     }
 }
