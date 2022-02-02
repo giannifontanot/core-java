@@ -1,6 +1,6 @@
-package com.abc;
+package com.SL_inheritance;
 
-import com.abc.Animal;
+import com.SL_inheritance.Animal;
 
 public class Bird extends Animal {
 

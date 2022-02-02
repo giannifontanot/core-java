@@ -1,4 +1,4 @@
-package com.abc;
+package com.SL_inheritance;
 
 public abstract class Animal {
     public void eat(){
