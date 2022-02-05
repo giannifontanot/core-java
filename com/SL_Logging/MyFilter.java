@@ -1,4 +1,4 @@
-package com.logging;
+package com.SL_Logging;
 
 import java.util.logging.Filter;
 import java.util.logging.Level;

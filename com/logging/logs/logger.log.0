@@ -1,6 +1,0 @@
-com.logging.Log4JExample :: main :: INFO :: Sun Jan 09 18:28:08 CST 2022 :: Logging message: 998
-com.logging.Log4JExample :: main :: CONFIG :: Sun Jan 09 18:28:08 CST 2022 :: Config Data
-com.logging.Log4JExample :: main :: INFO :: Sun Jan 09 18:28:08 CST 2022 :: Logging message: 999
-com.logging.Log4JExample :: main :: CONFIG :: Sun Jan 09 18:28:08 CST 2022 :: Config Data
-com.logging.Log4JExample :: main :: WARNING :: Sun Jan 09 18:28:08 CST 2022 :: Just a warning message1000
-com.logging.Log4JExample :: main :: INFO :: Sun Jan 09 18:28:08 CST 2022 :: this is a SECOND test

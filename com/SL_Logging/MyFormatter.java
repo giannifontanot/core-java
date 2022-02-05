@@ -1,4 +1,4 @@
-package com.logging;
+package com.SL_Logging;
 
 import java.util.Date;
 import java.util.logging.Formatter;
