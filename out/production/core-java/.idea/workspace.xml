@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/UD_Generics_Example/GenericsExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_Collections/CollectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_Collections/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_Collections/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/UD_Generics_Example/GenericsExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Generics_Example/GenericsExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/Log4JExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/Log4JExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/MyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/regExExample/regExTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_RegEx_Example/regExTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/scannerExample/UserInputTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Scanner_Example/UserInputTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Zoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/UD_Generics_Example/GenericsExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/UD_Generics_Example/GenericsExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/Log4JExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/regExExample/regExTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/scannerExample/UserInputTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +99,48 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run GenericsTester">
+  <component name="RunManager" selected="Application.Run Comparable">
+    <configuration name="Run Collections Sort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Collections.CollectionSort" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Comparable" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Collections.PersonComparableTester" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run GenericsTester" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Generics_Example.GenericsExercise" />
       <module name="core-java" />
@@ -146,7 +227,7 @@
       </method>
     </configuration>
     <configuration name="Run ScannerTester" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.scannerExample.UserInputTester" />
+      <option name="MAIN_CLASS_NAME" value="com.UD_Scanner_Example.UserInputTester" />
       <module name="core-java" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -163,7 +244,7 @@
       </method>
     </configuration>
     <configuration name="regExTester" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.regExExample.regExTester" />
+      <option name="MAIN_CLASS_NAME" value="com.UD_RegEx_Example.regExTester" />
       <module name="core-java" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -199,6 +280,8 @@
     <list>
       <item itemvalue="Application.run DateAndTimeTester" />
       <item itemvalue="Application.Run GenericsTester" />
+      <item itemvalue="Application.Run Collections Sort" />
+      <item itemvalue="Application.Run Comparable" />
       <item itemvalue="Application.regExTester" />
       <item itemvalue="Application.Run NewDog" />
       <item itemvalue="Application.Run PersonTester" />
@@ -218,7 +301,9 @@
       <workItem from="1643551677422" duration="13185000" />
       <workItem from="1643809794684" duration="2667000" />
       <workItem from="1643837860795" duration="8917000" />
-      <workItem from="1643936154034" duration="1959000" />
+      <workItem from="1643936154034" duration="3241000" />
+      <workItem from="1643998036593" duration="2914000" />
+      <workItem from="1644020517108" duration="1771000" />
     </task>
     <servers />
   </component>

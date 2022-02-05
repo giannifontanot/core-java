@@ -1,6 +1,4 @@
-package com.SL_inheritance;
-
-import com.SL_inheritance.Animal;
+package com.SL_Inheritance;
 
 public class Bird extends Animal {
 

@@ -1,4 +1,4 @@
-package com.SL_inheritance;
+package com.SL_Inheritance;
 
 public class Zoo {
     public static void main(String []args) {

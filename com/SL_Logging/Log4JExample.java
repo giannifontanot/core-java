@@ -26,7 +26,7 @@ logger.info("this is a test");
             System.out.println("Error when getting LogManager.");
             ex.printStackTrace();
         }
-;
+
         //We define the fileHandler and its properties
         try {
 

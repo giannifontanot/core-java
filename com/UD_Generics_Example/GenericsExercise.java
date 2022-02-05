@@ -14,6 +14,5 @@ public class GenericsExercise {
         for (Object o : list) {
             System.out.println(o.getClass().getName());
         }
-
     }
 }
