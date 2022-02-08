@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/UD_Collections/CollectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/UD_Collections/ComparableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/UD_Collections/Person.java" afterDir="false" />
+    <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="Collections Sorting using Comparable Interface">
+      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Bird.java" afterDir="false" />
@@ -16,11 +18,11 @@
       <change beforePath="$PROJECT_DIR$/com/logging/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/logging/MyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFormatter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/logging/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/com/regExExample/regExTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_RegEx_Example/regExTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/scannerExample/UserInputTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Scanner_Example/UserInputTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.0" afterDir="false" />
@@ -86,12 +88,13 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/IdeaProjects/Homework/09-NodeJS/readme-generator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AmericanAirlines/Automation/CC2_Cloud_Automation_Testing - My-Changes" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -99,14 +102,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run Comparable">
+  <component name="RunManager" selected="Application.Run MapExample">
     <configuration name="Run Collections Sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Collections.CollectionSort" />
       <module name="core-java" />
@@ -143,6 +146,23 @@
     </configuration>
     <configuration name="Run GenericsTester" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Generics_Example.GenericsExercise" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run MapExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Collections_Map.MapExercise" />
       <module name="core-java" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -282,6 +302,7 @@
       <item itemvalue="Application.Run GenericsTester" />
       <item itemvalue="Application.Run Collections Sort" />
       <item itemvalue="Application.Run Comparable" />
+      <item itemvalue="Application.Run MapExample" />
       <item itemvalue="Application.regExTester" />
       <item itemvalue="Application.Run NewDog" />
       <item itemvalue="Application.Run PersonTester" />
@@ -303,8 +324,33 @@
       <workItem from="1643837860795" duration="8917000" />
       <workItem from="1643936154034" duration="3241000" />
       <workItem from="1643998036593" duration="2914000" />
-      <workItem from="1644020517108" duration="1771000" />
+      <workItem from="1644020517108" duration="5671000" />
+      <workItem from="1644242600939" duration="1496000" />
+      <workItem from="1644261978931" duration="27000" />
+      <workItem from="1644288464231" duration="1566000" />
     </task>
+    <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
+      <created>1644024265182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024265182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Collections Sorting using Comparable Interface">
+      <created>1644024320420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024320420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Collections Sorting using Comparable Interface">
+      <created>1644024811280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024811280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,12 +361,43 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collections Sorting using Comparable Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Sorting using Comparable Interface" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

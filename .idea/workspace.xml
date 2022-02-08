@@ -94,7 +94,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/IdeaProjects/Homework/09-NodeJS/readme-generator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AmericanAirlines/Automation/CC2_Cloud_Automation_Testing - My-Changes" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -102,14 +102,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run Comparable">
+  <component name="RunManager" selected="Application.Run MapExample">
     <configuration name="Run Collections Sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Collections.CollectionSort" />
       <module name="core-java" />
@@ -146,6 +146,23 @@
     </configuration>
     <configuration name="Run GenericsTester" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Generics_Example.GenericsExercise" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run MapExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Collections_Map.MapExercise" />
       <module name="core-java" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -280,24 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.run DateAndTimeTester" />
       <item itemvalue="Application.Run GenericsTester" />
       <item itemvalue="Application.Run Collections Sort" />
       <item itemvalue="Application.Run Comparable" />
+      <item itemvalue="Application.Run MapExample" />
       <item itemvalue="Application.regExTester" />
       <item itemvalue="Application.Run NewDog" />
       <item itemvalue="Application.Run PersonTester" />
@@ -319,7 +324,10 @@
       <workItem from="1643837860795" duration="8917000" />
       <workItem from="1643936154034" duration="3241000" />
       <workItem from="1643998036593" duration="2914000" />
-      <workItem from="1644020517108" duration="2697000" />
+      <workItem from="1644020517108" duration="5671000" />
+      <workItem from="1644242600939" duration="1496000" />
+      <workItem from="1644261978931" duration="27000" />
+      <workItem from="1644288464231" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
@@ -335,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644024320420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collections Sorting using Comparable Interface">
+      <created>1644024811280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644024811280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +367,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
