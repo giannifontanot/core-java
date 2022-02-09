@@ -11,6 +11,8 @@ public class QueueExample {
         myQueue.add("this");
         myQueue.add("is");
         myQueue.add("a");
+        myQueue.add("a");
+        myQueue.add("a");
         myQueue.add("test");
         while (!myQueue.isEmpty()) {
             System.out.println(myQueue.poll());
