@@ -94,7 +94,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AmericanAirlines/Automation/CC2_Cloud_Automation_Testing - My-Changes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -109,7 +109,7 @@
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run MapExample">
+  <component name="RunManager" selected="Application.Run SetExample">
     <configuration name="Run Collections Sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Collections.CollectionSort" />
       <module name="core-java" />
@@ -263,6 +263,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Run SetExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Collections_Set.SetExample" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="regExTester" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_RegEx_Example.regExTester" />
       <module name="core-java" />
@@ -297,7 +314,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Run SetExample" />
       <item itemvalue="Application.run DateAndTimeTester" />
       <item itemvalue="Application.Run GenericsTester" />
       <item itemvalue="Application.Run Collections Sort" />
@@ -327,7 +356,8 @@
       <workItem from="1644020517108" duration="5671000" />
       <workItem from="1644242600939" duration="1496000" />
       <workItem from="1644261978931" duration="27000" />
-      <workItem from="1644288464231" duration="1676000" />
+      <workItem from="1644288464231" duration="2116000" />
+      <workItem from="1644374283119" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
