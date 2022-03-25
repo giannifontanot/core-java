@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="Collections Sorting using Comparable Interface">
       <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.0" afterDir="false" />
@@ -77,6 +80,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24Q8u0Ok810BV1BYr1siSQ3flbj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,15 +107,25 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run QueueExaple">
+  <component name="RunManager" selected="Application.Run LambdaExample">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run Collections Sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_Collections.CollectionSort" />
       <module name="core-java" />
@@ -157,6 +173,13 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run LambdaExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.LambdasPredicate" />
+      <module name="core-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -331,18 +354,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Run LambdaExample" />
       <item itemvalue="Application.Run SetExample" />
       <item itemvalue="Application.Run QueueExaple" />
       <item itemvalue="Application.run DateAndTimeTester" />
@@ -361,7 +374,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="" />
+      <changelist id="ed7c0c91-b842-4ac9-8b95-f5dc36c9868d" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -376,6 +389,8 @@
       <workItem from="1644261978931" duration="27000" />
       <workItem from="1644288464231" duration="2116000" />
       <workItem from="1644374283119" duration="2310000" />
+      <workItem from="1647994471378" duration="13967000" />
+      <workItem from="1648169489180" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
@@ -441,7 +456,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Collections Sorting using Comparable Interface" />
