@@ -65,6 +65,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -177,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run LambdaExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.LambdasPredicate" />
+    <configuration name="Run LambdaExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.Main" />
       <module name="core-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -355,6 +356,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Run LambdaExample" />
       <item itemvalue="Application.Run SetExample" />
       <item itemvalue="Application.Run QueueExaple" />
       <item itemvalue="Application.run DateAndTimeTester" />
@@ -368,18 +370,12 @@
       <item itemvalue="Application.Run PersonTesterInheritance" />
       <item itemvalue="Application.Run PhoneTester" />
       <item itemvalue="Application.Run ScannerTester" />
-      <item itemvalue="Application.Run LambdaExample" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Run LambdaExample" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default Changelist" comment="" />
+      <changelist id="3bf5f45b-081a-4d20-b3bd-664bd46d0a0d" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -395,6 +391,8 @@
       <workItem from="1644288464231" duration="2116000" />
       <workItem from="1644374283119" duration="2310000" />
       <workItem from="1647994471378" duration="13967000" />
+      <workItem from="1648169489180" duration="4478000" />
+      <workItem from="1648247262824" duration="2575000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>

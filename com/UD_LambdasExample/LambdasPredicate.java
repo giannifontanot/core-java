@@ -22,15 +22,10 @@ public final class LambdasPredicate {
 
     public static void main(String[] args) {
 
-        List<String> input = List.of("hello", "\t", "", "  ", "goodbye", "   A   ");
+        List<String> input = List.of("hello", "\t", "", "  ", "goodbye", "      ");
 
 
-        long numOfWhitespaceStrings =
-                countMatchingStrings( input,
-                        new Predicate<String>() {
-                            @Override
-                            public boolean test(String s) {return s.trim().isEmpty(); }
-                        });
+        long numOfWhitespaceStrings = countMatchingStrings( input, s ->  s.trim().isEmpty());
 
         System.out.println("numOfWhitespaceStrings: " + numOfWhitespaceStrings);
     }

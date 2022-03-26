@@ -65,6 +65,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,6 +113,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.UD_LambdasExample" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Run LambdaExample">
@@ -178,8 +182,9 @@
       </method>
     </configuration>
     <configuration name="Run LambdaExample" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.LambdasPredicate" />
+      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.Main3" />
       <module name="core-java" />
+      <option name="PROGRAM_PARAMETERS" value="ea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -374,7 +379,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed7c0c91-b842-4ac9-8b95-f5dc36c9868d" name="Changes" comment="" />
+      <changelist id="3bf5f45b-081a-4d20-b3bd-664bd46d0a0d" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -390,7 +395,8 @@
       <workItem from="1644288464231" duration="2116000" />
       <workItem from="1644374283119" duration="2310000" />
       <workItem from="1647994471378" duration="13967000" />
-      <workItem from="1648169489180" duration="1536000" />
+      <workItem from="1648169489180" duration="4478000" />
+      <workItem from="1648247262824" duration="8995000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
