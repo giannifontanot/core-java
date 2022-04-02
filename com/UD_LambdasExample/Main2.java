@@ -21,8 +21,7 @@ public class Main2 {
 
         List<String> input = List.of("hello", "\t   ", "world", "", "\t", " ", "goodbye", "  ");
 
-        long numberOfWhitespaceStrings =
-                countMatchingStrings(input, s -> s.trim().isEmpty());
+        long numberOfWhitespaceStrings = countMatchingStrings(input, s -> s.trim().isEmpty());
 
         System.out.println(numberOfWhitespaceStrings + " whitespace strings");
     }

@@ -5,57 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="Collections Sorting using Comparable Interface">
-      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/SL_Logging/logs/logger.log.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/GFG_InnerClass/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_LambdasExample/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_LambdasThisExample/ThisExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/SL_inheritance/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Inheritance/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/UD_Generics_Example/GenericsExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Generics_Example/GenericsExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/Log4JExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/Log4JExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/MyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/SL_Logging/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/logging/logs/logger.log.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/regExExample/regExTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_RegEx_Example/regExTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/scannerExample/UserInputTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Scanner_Example/UserInputTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/SL_inheritance/Zoo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/UD_Generics_Example/GenericsExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/com/UD_Generics_Example/GenericsExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/Log4JExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/MyHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/logging/logs/logger.log.4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/regExExample/regExTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/com/scannerExample/UserInputTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.0" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/logger.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/logger.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/UD_LambdasExample/BinaryOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/UD_LambdasExample/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_LambdasExample/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,11 +66,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\giann\Documents\CODE\all-core-java\com\UD_LambdasExample" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\giann\Documents\CODE\core-java\.idea" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.UD_LambdasExample" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Run LambdaExample">
+  <component name="RunManager" selected="Application.Run Lambdas Calculate">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -178,8 +139,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run LambdaExample" type="Application" factoryName="Application">
+    <configuration name="Run InnerClassDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.GFG_InnerClass.InnerClassDemo" />
+      <module name="core-java" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run LambasExample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.UD_LambdasExample.Main" />
+      <module name="core-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Lambdas Calculate" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Lambdas_Calculate" />
       <module name="core-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -304,19 +289,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run SetExample" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.UD_Collections_Set.SetExample" />
+    <configuration name="Run ThisExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasThisExample.ThisExample" />
       <module name="core-java" />
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
-        </ENTRIES>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -356,9 +331,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Run LambdaExample" />
-      <item itemvalue="Application.Run SetExample" />
+      <item itemvalue="Application.Run InnerClassDemo" />
       <item itemvalue="Application.Run QueueExaple" />
+      <item itemvalue="Application.Run LambasExample" />
+      <item itemvalue="Application.Run ThisExample" />
+      <item itemvalue="Application.Run Lambdas Calculate" />
       <item itemvalue="Application.run DateAndTimeTester" />
       <item itemvalue="Application.Run GenericsTester" />
       <item itemvalue="Application.Run Collections Sort" />
@@ -375,7 +352,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3bf5f45b-081a-4d20-b3bd-664bd46d0a0d" name="Changes" comment="" />
+      <changelist id="825e9c38-cc9f-4aad-9e82-e52554c63c8c" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -392,7 +369,12 @@
       <workItem from="1644374283119" duration="2310000" />
       <workItem from="1647994471378" duration="13967000" />
       <workItem from="1648169489180" duration="4478000" />
-      <workItem from="1648247262824" duration="2575000" />
+      <workItem from="1648247262824" duration="21063000" />
+      <workItem from="1648342741309" duration="1313000" />
+      <workItem from="1648515459055" duration="596000" />
+      <workItem from="1648570459896" duration="41000" />
+      <workItem from="1648599901424" duration="1917000" />
+      <workItem from="1648678677706" duration="5644000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
