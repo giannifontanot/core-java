@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="Collections Sorting using Comparable Interface">
-      <change afterPath="$PROJECT_DIR$/com/GFG_InnerClass/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/UD_LambdasExample/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/UD_LambdasThisExample/ThisExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/UD_LambdasExample/BinaryOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/UD_LambdasExample/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_LambdasExample/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\giann\Documents\CODE\all-core-java\com\UD_LambdasCalculate" />
       <recent name="C:\Users\giann\Documents\CODE\all-core-java\com\UD_LambdasExample" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +72,7 @@
       <recent name="com.UD_LambdasExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run Lambdas Calculate">
+  <component name="RunManager" selected="Application.Calculate">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -84,6 +80,19 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.GFG_Lambda_Squared.Calculate" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GFG_Lambda_Squared.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,9 +172,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run Lambdas Calculate" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.UD_Lambdas_Calculate" />
+    <configuration name="Run Lambdas CalculateUseMap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.UD_LambdasCalculate.CalculateUseMap" />
       <module name="core-java" />
+      <option name="PROGRAM_PARAMETERS" value="4 * 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -335,7 +345,7 @@
       <item itemvalue="Application.Run QueueExaple" />
       <item itemvalue="Application.Run LambasExample" />
       <item itemvalue="Application.Run ThisExample" />
-      <item itemvalue="Application.Run Lambdas Calculate" />
+      <item itemvalue="Application.Run Lambdas CalculateUseMap" />
       <item itemvalue="Application.run DateAndTimeTester" />
       <item itemvalue="Application.Run GenericsTester" />
       <item itemvalue="Application.Run Collections Sort" />
@@ -347,12 +357,18 @@
       <item itemvalue="Application.Run PersonTesterInheritance" />
       <item itemvalue="Application.Run PhoneTester" />
       <item itemvalue="Application.Run ScannerTester" />
+      <item itemvalue="Application.Calculate" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculate" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="825e9c38-cc9f-4aad-9e82-e52554c63c8c" name="Changes" comment="" />
+      <changelist id="0cd8dd88-fd1f-45a4-891a-29dbeca79992" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -374,7 +390,10 @@
       <workItem from="1648515459055" duration="596000" />
       <workItem from="1648570459896" duration="41000" />
       <workItem from="1648599901424" duration="1917000" />
-      <workItem from="1648678677706" duration="5644000" />
+      <workItem from="1648678677706" duration="8432000" />
+      <workItem from="1648866019530" duration="1037000" />
+      <workItem from="1648911384805" duration="2490000" />
+      <workItem from="1648944627190" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
