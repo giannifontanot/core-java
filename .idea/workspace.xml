@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c9440-5cb9-4d60-b5ef-80ed1e8090a6" name="Default Changelist" comment="Collections Sorting using Comparable Interface">
+      <change afterPath="$PROJECT_DIR$/com/UD_Streams/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/UD_Streams/SquaredMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/UD_Streams_Exercise/SummarizeClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/UD_Streams_Exercise/SummarizeClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sl-project2-learners-academy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AmericanAirlines/CrewComp - Angular UI/CC2_Cloud_CrewComp_UI" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -72,7 +76,7 @@
       <recent name="com.UD_LambdasExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.SquaredMax">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -80,19 +84,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.GFG_Lambda_Squared.Calculate" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.GFG_Lambda_Squared.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -319,6 +310,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Streams.Square" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UD_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquaredMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.UD_Streams.SquaredMax" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UD_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummarizeClients (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SummarizeClients" />
+      <module name="core-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SummarizeClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.UD_Streams_Exercise.SummarizeClients" />
       <module name="core-java" />
@@ -383,22 +407,26 @@
       <item itemvalue="Application.Run PersonTesterInheritance" />
       <item itemvalue="Application.Run PhoneTester" />
       <item itemvalue="Application.Run ScannerTester" />
-      <item itemvalue="Application.Calculate" />
       <item itemvalue="Application.SummarizeClients" />
       <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Square" />
+      <item itemvalue="Application.SummarizeClients (1)" />
+      <item itemvalue="Application.SquaredMax" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.SquaredMax" />
         <item itemvalue="Application.SummarizeClients" />
-        <item itemvalue="Application.Calculate" />
+        <item itemvalue="Application.SummarizeClients (1)" />
+        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cd8dd88-fd1f-45a4-891a-29dbeca79992" name="Changes" comment="" />
+      <changelist id="15f7c033-eb89-4038-a751-8c6be3b423ec" name="Changes" comment="" />
       <created>1643551675409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -423,7 +451,12 @@
       <workItem from="1648678677706" duration="8432000" />
       <workItem from="1648866019530" duration="1037000" />
       <workItem from="1648911384805" duration="2490000" />
-      <workItem from="1648944627190" duration="16514000" />
+      <workItem from="1648944627190" duration="17125000" />
+      <workItem from="1649112137953" duration="9444000" />
+      <workItem from="1649202694219" duration="6300000" />
+      <workItem from="1649265198108" duration="12302000" />
+      <workItem from="1649523508735" duration="1604000" />
+      <workItem from="1649600804359" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="Collections Sorting using Comparable Interface">
       <created>1644024265182</created>
